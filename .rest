@@ -1,0 +1,28 @@
+###
+POST http://localhost:3000/dog
+Content-Type: application/json
+
+{
+    "name": "ddd",
+    "age": 16,
+    "tags": ["faaa"]
+}
+
+###
+GET http://localhost:3000/dog
+
+###
+GET http://localhost:3000/dog/678278cf96d45674b671a283
+
+###
+PATCH http://localhost:3000/dog/678278cf96d45674b671a283
+Content-Type: application/json
+
+{
+    "name": "bbb2",
+    "age": 14,
+    "tags": ["foo2", "bar2"]
+}
+
+###
+DELETE http://localhost:3000/dog/678283d0c2587e9de7602753
