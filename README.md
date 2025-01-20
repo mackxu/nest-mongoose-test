@@ -13,7 +13,7 @@
 - findByIdAndDelete()
 - ExceptionsHandler
 
-## 其他
+## nestjs-mongodb
 ![MongoDB flow of creating and listing users](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*PbtUHc79z7lTefJtQ-p-yw.png "MongoDB flow of creating and listing users")
 MongoDB flow of creating and listing users
 
