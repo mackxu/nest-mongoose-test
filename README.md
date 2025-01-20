@@ -3,15 +3,15 @@
 </p>
 
 ## 知识点
-- @Schema()
-- @Prop()
-- HydratedDocument
-- SchemaFactory.createForClass() 创建schema
-- @InjectModel()
-- MongooseModule
-- findByIdAndUpdate()
-- findByIdAndDelete()
-- ExceptionsHandler
+- @Schema(): @nestjs/mongoose
+- @Prop(): @nestjs/mongoose
+- HydratedDocument: mongoose
+- SchemaFactory.createForClass() 创建schema: @nestjs/mongoose
+- @InjectModel(): @nestjs/mongoose
+- MongooseModule: @nestjs/mongoose
+- findByIdAndUpdate(): https://mongoosejs.com/docs/api/model.html
+- findByIdAndDelete(): https://mongoosejs.com/docs/api/model.html
+- ExceptionsHandler: @nestjs/core 路由方法的异常处理
 
 ## nestjs-mongodb
 ![MongoDB flow of creating and listing users](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*PbtUHc79z7lTefJtQ-p-yw.png "MongoDB flow of creating and listing users")
