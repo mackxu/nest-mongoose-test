@@ -26,5 +26,10 @@ User Controller, User Service, User Schema, and Create User DTO
 ![User Schema](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QcpsGmlb-xGbJkytJ5VBWg.png "User Schema")
 User Schema
 
+## 学习资源
+[https://www.mongodb.com/zh-cn/docs/manual/reference/method/](https://www.mongodb.com/zh-cn/docs/manual/reference/method/)
+
+[https://mongoosejs.com/docs/](https://mongoosejs.com/docs/)
+
 ## 参考
 [https://kelvinbz.medium.com/exploring-a-nestjs-application-with-mongodb-using-mongoose-a-beginners-guide-5f7e357f97bd](https://kelvinbz.medium.com/exploring-a-nestjs-application-with-mongodb-using-mongoose-a-beginners-guide-5f7e357f97bd)
